@@ -22,7 +22,7 @@ function toggleTheme() {
   if (btn) btn.textContent = next === 'dark' ? '☀️' : '🌙';
 }
 
-const API_BASE = 'http://127.0.0.1:5000';
+const API_BASE = 'https://interview-ai-pkd2.onrender.com';
 
 // ===== STATE =====
 const state = {
