@@ -36,8 +36,8 @@ my_project/
 ### 1. Clone / Download the project
 
 ```bash
-git clone https://github.com/yourname/intrvw-ai.git
-cd intrvw-ai
+git clone https://https://github.com/Koushik6699/interview.ai.git
+cd interview.ai
 ```
 
 ### 2. Set up your API key
